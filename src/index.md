@@ -1,1 +1,5 @@
-# This will be parsed into an h1 tag
+---
+title: 'Hello, world'
+layout: 'layouts/home.html'
+---
+This is pretty _rad_, right?
